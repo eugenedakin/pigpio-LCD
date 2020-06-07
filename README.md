@@ -14,7 +14,7 @@ The estimated time for the book to be released is the fall of 2020.
 Version 1.0 (6 June 2020)
 - Initial Version of pigpio-GPIO library
 
-V1.1 (6 June 2020)
+Verson 1.1 (6 June 2020)
  - Added ScrollDisplayLeft
  - Added ScrollDisplayRight
  - Added DisplayOff
